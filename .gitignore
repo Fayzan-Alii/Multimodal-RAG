@@ -1,0 +1,31 @@
+# Data and model files
+data/
+*.pkl
+*.pth
+*.h5
+*.model
+*.bin
+*.safetensors
+__pycache__/
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# ChromaDB files
+*.parquet
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
